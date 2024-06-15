@@ -1,4 +1,4 @@
-# co4794917ae291562fc9ee2dc
+# BoredBot
 
 Quick start:
 
