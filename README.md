@@ -1,4 +1,5 @@
 # BoredBot
+Her kan du sjekke ut nettsida: https://hvisdukjederdeg.netlify.app/
 
 Quick start:
 
